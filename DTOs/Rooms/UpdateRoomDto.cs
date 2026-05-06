@@ -1,11 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace APBD_PJATK_Cw3_s29766.Models;
+namespace APBD_PJATK_Cw3_s29766.DTOs.Rooms;
 
-public class Room
+public class UpdateRoomDto
 {
-    public int Id { get; set; }
-
     [Required]
     public string Name { get; set; }
 

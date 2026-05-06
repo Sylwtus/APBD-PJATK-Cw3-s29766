@@ -15,7 +15,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46d2ecb-032b-4b1d-8d32-c3b0b157301c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/Reservation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.APBD-PJATK-Cw3-s29766/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APBD-PJATK-Cw3-s29766/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Reservation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Reservation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Room.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Room.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778098579899</updated>
-      <workItem from="1778098582908" duration="1531000" />
+      <workItem from="1778098582908" duration="2249000" />
     </task>
     <servers />
   </component>

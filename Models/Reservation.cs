@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace TrainingCenterApi.Models;
+namespace APBD_PJATK_Cw3_s29766.Models;
 
 public class Reservation
 {
