@@ -14,9 +14,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b46d2ecb-032b-4b1d-8d32-c3b0b157301c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Controllers/ReservationsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/ReservationsController.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b46d2ecb-032b-4b1d-8d32-c3b0b157301c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778098579899</updated>
-      <workItem from="1778098582908" duration="5855000" />
+      <workItem from="1778098582908" duration="6670000" />
     </task>
     <servers />
   </component>
