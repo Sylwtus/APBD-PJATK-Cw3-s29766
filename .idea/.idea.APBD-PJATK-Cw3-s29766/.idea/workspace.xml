@@ -15,16 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46d2ecb-032b-4b1d-8d32-c3b0b157301c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.APBD-PJATK-Cw3-s29766/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.APBD-PJATK-Cw3-s29766/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APBD-PJATK-Cw3-s29766.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/APBD-PJATK-Cw3-s29766.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewStart.cshtml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mappers/ReservationMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mappers/RoomMapper.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778098579899</updated>
-      <workItem from="1778098582908" duration="3563000" />
+      <workItem from="1778098582908" duration="4119000" />
     </task>
     <servers />
   </component>
